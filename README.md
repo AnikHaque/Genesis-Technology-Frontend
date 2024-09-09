@@ -8,6 +8,7 @@ The Genesis Technology website is designed to showcase the services, products, a
 
 <h3>Features:</h3>
 - <b>Responsive Design:</b> Optimized for various devices, including mobile, tablet, and desktop.
+<br>
 - <b>Responsive Design:</b> Optimized for various devices, including mobile, tablet, and desktop.
 - <b>Responsive Design:</b> Optimized for various devices, including mobile, tablet, and desktop.
 - <b>Responsive Design:</b> Optimized for various devices, including mobile, tablet, and desktop.
