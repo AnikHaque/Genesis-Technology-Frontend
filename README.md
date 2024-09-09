@@ -15,6 +15,3 @@ The Genesis Technology website is designed to showcase the services, products, a
 <br>
 - <b>Interactive UI:</b> Includes various UI/UX elements like modals, carousels, and animations for an engaging user experience.
 
-
-
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
